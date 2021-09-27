@@ -129,26 +129,3 @@ Thumbs.db
 # Files that might appear on external disks
 .Spotlight-V100
 .Trashes
-
-.vagrant*
-bin
-docker/docker
-.*.swp
-a.out
-*.orig
-build_src
-.flymake*
-.idea
-.DS_Store
-docs/_build
-docs/_static
-docs/_templates
-.gopath/
-.dotcloud
-*.test
-bundles/
-.hg/
-.git/
-vendor/pkg/
-pyenv
-Vagrantfile
